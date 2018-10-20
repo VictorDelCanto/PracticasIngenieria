@@ -1,2 +1,2 @@
 # PracticasIngenieria
-Practicas de la carrera Ingenieria Tecnica Informatica Sistemas en JAVA
+Practicas de la carrera Ingenieria Tecnica Informatica Sistemas UNED en JAVA
